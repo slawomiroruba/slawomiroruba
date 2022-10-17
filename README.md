@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @slawomiroruba
-- 👀 I’m interested in PHP programming
-- 🌱 I’m currently learning PHP OOP
+- 👀 I’m Web Developer
 - 📫 How to reach me: slawomir.oruba@gmail.com
 
 <!---
